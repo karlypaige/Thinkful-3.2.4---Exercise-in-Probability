@@ -1,1 +1,1 @@
-# Thinkful-Unit-3-Lesson-2---Exercise-in-Probability
+# Thinkful-3.2.4 - Exercise-in-Probability
